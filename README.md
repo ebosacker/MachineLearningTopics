@@ -1,5 +1,5 @@
 # MachineLearningTopics
-This repository includes the python code I wrote for assignments given in my Machine Learning course. Each include instructions for the assignment, the python notebook, and the data files.
+This repository includes assignments I completed for my Machine Learning course.
 <br>
 ## Documents:
 * Assignment 2:
@@ -14,11 +14,3 @@ This repository includes the python code I wrote for assignments given in my Mac
    - PDF: Assign5Instructions.pdf
    - Python Notebook File: Assign5.ipynb
    - CSV File: assign5data.csv
-## Course Information:
-SEIS 763: Machine Learning
-<br>
-Professor: Dr. Manjeet Rege
-<br>
-University of St. Thomas
-<br>
-St. Paul, MN
